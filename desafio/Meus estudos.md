@@ -3,7 +3,7 @@
 # Meus Estudos
 
 ### **Conteúdo já estudado**
-- Logica de programação
+- Lógica de programação
 - Estrutura de Dados e Algorítimo
 - Fundamentos do Git/GitHub
 
